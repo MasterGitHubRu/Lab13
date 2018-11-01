@@ -162,5 +162,5 @@ $ gistup -m "lab${LAB_NUMBER}"
 - [Book](https://www.dockerbook.com)
 
 ```
-Copyright (c) 2017 Братья Вершинины
+Copyright (c) 2018 Михайлов Алексей
 ```
